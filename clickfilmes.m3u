@@ -1,5 +1,577 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/4hkR5LcOfkDqZigf7HwuM7vQAK0.jpg", [FILME] Souvenir (2016)
+http://embed-api.clickhost.xyz/embed/filme/408258
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/89PrfqYkqafUrSK8YhWqyMt4E3M.jpg", [FILME] A Origem do Dragão (2017)
+http://embed-api.clickhost.xyz/embed/filme/408266
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/id4ZgR4m3wE8eQUFJexuJ6tvDvI.jpg", [FILME] Não Estamos Sós (2016)
+http://embed-api.clickhost.xyz/embed/filme/408268
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/2BLCSkag2BTRi1MNYEfiDWe32DM.jpg", [FILME] Santo Inacio de Loyola (2016)
+http://embed-api.clickhost.xyz/embed/filme/408323
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/gyI1M8toCUr6xlVnVqXOdATg9gY.jpg", [FILME] Monolith (2016)
+http://embed-api.clickhost.xyz/embed/filme/408381
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/wCMuH4tQHJGSJ0GAJUFAugoB6jr.jpg", [FILME] Uma Jornada Mágica (2019)
+http://embed-api.clickhost.xyz/embed/filme/408437
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/6Xkp4is3hCPXYHu26KLt9giB5pF.jpg", [FILME] Blue Jay (2016)
+http://embed-api.clickhost.xyz/embed/filme/408508
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/iBxecDyQqtQC9nnKudX3eyrJYrJ.jpg", [FILME] Initiation (2016)
+http://embed-api.clickhost.xyz/embed/filme/408554
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/xPT8BftMAQtFjSiv6eeU1Y5N7h0.jpg", [FILME] Agente Mirim (2016)
+http://embed-api.clickhost.xyz/embed/filme/408670
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/fkIsBtjuf8q8hDQ9mxMEPzOYgPc.jpg", [FILME] Re:Born (2016)
+http://embed-api.clickhost.xyz/embed/filme/408866
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/dU3zEk09l4GAVxyh1TuDlseJjV5.jpg", [FILME] Kings: Los Angeles em Chamas (2017)
+http://embed-api.clickhost.xyz/embed/filme/408873
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/fKqTwTE8c7inpQz0Jflr0RMSMb6.jpg", [FILME] Diário de Um Exorcista - Zero (2016)
+http://embed-api.clickhost.xyz/embed/filme/408949
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/enqsTKKNtSdk8o0quDBa5Rdm1S5.jpg", [FILME] O Jogo do Abismo (2017)
+http://embed-api.clickhost.xyz/embed/filme/409137
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/lFOSbI3TqqeW8z19DkyrNeAG1ix.jpg", [FILME] A Noite dos Mortos (2016)
+http://embed-api.clickhost.xyz/embed/filme/409164
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/rxrYij1gxwIakNrrVP5LNPrEMV8.jpg", [FILME] Simbad, O Marujo Trapalhão (1976)
+http://embed-api.clickhost.xyz/embed/filme/409232
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/k3EvKgyVDkhaG1w3XLdTnrBw3Tg.jpg", [FILME] Deserto (2016)
+http://embed-api.clickhost.xyz/embed/filme/409304
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/yxtvQWW27MwEJPQZEr8f0EoxZEx.jpg", [FILME] Elon Não Acredita na Morte (2017)
+http://embed-api.clickhost.xyz/embed/filme/409306
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/2YvhwlrdozzVpFRN8MSP2Kz5nZU.jpg", [FILME] Martírio (2017)
+http://embed-api.clickhost.xyz/embed/filme/409311
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/krowYpPk8PiINjZLnbFkk3Nvd5.jpg", [FILME] É Fada! (2016)
+http://embed-api.clickhost.xyz/embed/filme/409317
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/dwOvzaH6fDI7yYF05q4nP3NLjI1.jpg", [FILME] Profecias Reveladas (2015)
+http://embed-api.clickhost.xyz/embed/filme/409446
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/3T1u2DzwfDUd5iMNw4gqFWQx3P2.jpg", [FILME] Hairspray Live! (2016)
+http://embed-api.clickhost.xyz/embed/filme/409447
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/zu94JGXSzJldFxXjLwTvLhdUjbI.jpg", [FILME] Uma Vida Com Propósito (2016)
+http://embed-api.clickhost.xyz/embed/filme/409502
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/6NAlMdzhOcHpkotQv1Q077n1CvK.jpg", [FILME] O Acampamento (2017)
+http://embed-api.clickhost.xyz/embed/filme/409617
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/4r5VRdSS84GesjVxvKR3JTk0W4x.jpg", [FILME] A Caverna: Perigo Subterrâneo (2016)
+http://embed-api.clickhost.xyz/embed/filme/410118
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/gW6hVcJAI4mCYvGhERDBK4PHsjn.jpg", [FILME] Pedro: A Redenção (2016)
+http://embed-api.clickhost.xyz/embed/filme/410129
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/mU4VeXVK18JtCZsy7i0zczlA9p7.jpg", [FILME] ARQ (2016)
+http://embed-api.clickhost.xyz/embed/filme/410199
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/eAtkibhtvRBGrwRNraaqhrbEhV8.jpg", [FILME] Coragem para Vencer (2016)
+http://embed-api.clickhost.xyz/embed/filme/410259
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/qOODccoBLCtPacKuBSV8cCBS8CU.jpg", [FILME] Encontro de Natal (2016)
+http://embed-api.clickhost.xyz/embed/filme/410315
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/xJCkU5RnX28I2h1em2HVdfp406v.jpg", [FILME] Amityville: O Terror (2016)
+http://embed-api.clickhost.xyz/embed/filme/410537
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/klEP85yIRJmZo85jVg2ntb5KVB5.jpg", [FILME] Caçada Brutal (2017)
+http://embed-api.clickhost.xyz/embed/filme/410554
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/roXAdppky4GRcwCi8JQ9GLhJDoq.jpg", [FILME] Seremos História? (2016)
+http://embed-api.clickhost.xyz/embed/filme/410718
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/uH8Q1Dazw2wldr3NsPt48SppsLe.jpg", [FILME] Maré Alta (1968)
+http://embed-api.clickhost.xyz/embed/filme/410821
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/4w75kB5bEKCsiw4nEWc4eNwkcoR.jpg", [FILME] Diabolique (1996)
+http://embed-api.clickhost.xyz/embed/filme/10988
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/he85BGyoCi42KWtwkC2sXlqdkWQ.jpg", [FILME] Amanda Knox (2016)
+http://embed-api.clickhost.xyz/embed/filme/411009
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/rdzSwGN4gxzoG8qc676BYrkFpdk.jpg", [FILME] Eu Não Sou Seu Negro (2017)
+http://embed-api.clickhost.xyz/embed/filme/411019
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/pOnbhr6DbPgKjvcNexbRdmR37De.jpg", [FILME] Um Contratempo (2017)
+http://embed-api.clickhost.xyz/embed/filme/411088
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/4wGb5BO3wBVVtnHY7ERdQIODjnl.jpg", [FILME] Guerreiros do Futuro (2018)
+http://embed-api.clickhost.xyz/embed/filme/411135
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/qqYOlCee3X7cKg05EOQH1htcHmy.jpg", [FILME] Tau (2018)
+http://embed-api.clickhost.xyz/embed/filme/411143
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/tIRmAvV62u2rPJy4a7xLeeVaa3S.jpg", [FILME] Operação Secreta (2016)
+http://embed-api.clickhost.xyz/embed/filme/411268
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/d2j74nL3SI93g5hv0iWawulPqvt.jpg", [FILME] Pequenos Delitos (2017)
+http://embed-api.clickhost.xyz/embed/filme/411405
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/zzgnQ6aIFPOI1qCS1F1MzhuFXHV.jpg", [FILME] Missão: Amsterdam (2017)
+http://embed-api.clickhost.xyz/embed/filme/411626
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/5PJKK0NP3cyoZMmcB8tLeGBgZPU.jpg", [FILME] Fim da Linha (2016)
+http://embed-api.clickhost.xyz/embed/filme/411632
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/k0gVckm4cPZADGIljCALidbP7nR.jpg", [FILME] O Gênio e o Louco (2019)
+http://embed-api.clickhost.xyz/embed/filme/411728
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/ujebGh01z2vPy7kGolZobj9a5zZ.jpg", [FILME] Ingrid Vai para o Oeste (2017)
+http://embed-api.clickhost.xyz/embed/filme/411741
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/x2DONIzSRchXPhgVCBEp628Lq1B.jpg", [FILME] A Comédia Divina (2017)
+http://embed-api.clickhost.xyz/embed/filme/411764
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/iLCJYAmGcOJZdbBegtU6XpDhSu8.jpg", [FILME] A Comédia dos Pecados (2017)
+http://embed-api.clickhost.xyz/embed/filme/411873
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/qFarosDRwXQHiP2ZzApvjwdW0zH.jpg", [FILME] Um Lugar Sombrio (2018)
+http://embed-api.clickhost.xyz/embed/filme/412157
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/jgQlsW25abkrlIvPiCTHBL2UYu2.jpg", [FILME] A Mala e os Errantes (2016)
+http://embed-api.clickhost.xyz/embed/filme/412209
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/iGSq9ldKGq2RoLDHp2ZAbPOuge8.jpg", [FILME] O Último Selvagem (1992)
+http://embed-api.clickhost.xyz/embed/filme/412296
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/gQXkJmlv9PhNLFK5HELT2MUW51k.jpg", [FILME] Perseguição Radical (2016)
+http://embed-api.clickhost.xyz/embed/filme/412361
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/fKb2kGQzlC0YUoqxzprgZUsxnQs.jpg", [FILME] Honey 3: No Ritmo do Amor (2016)
+http://embed-api.clickhost.xyz/embed/filme/412519
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/ldiKFEdirzPmhpgy7RySDvEK3OJ.jpg", [FILME] Antrum – A Cova do Demônio (2018)
+http://embed-api.clickhost.xyz/embed/filme/412546
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/1XDIAYXiN5WDIM5TElF6a5ejU93.jpg", [FILME] Queremos Matar Gunther (2017)
+http://embed-api.clickhost.xyz/embed/filme/412547
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/hqmxWYRLXhZorcZmnGCTZIRkaHg.jpg", [FILME] The Last Descent (2016)
+http://embed-api.clickhost.xyz/embed/filme/412605
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/oMSumadgRiygK1DUtBurdnZb9Jz.jpg", [FILME] Mundo em Caos (2021)
+http://embed-api.clickhost.xyz/embed/filme/412656
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/pWFo72g7YIcc5ADZT9b6LzP6T6K.jpg", [FILME] A Deusa da Vingança (2016)
+http://embed-api.clickhost.xyz/embed/filme/412766
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/oCVDRqnh6xtaexTKQ8OkXD89rkL.jpg", [FILME] Maligno (2016)
+http://embed-api.clickhost.xyz/embed/filme/412795
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/6zHdhfnreagE3Bv6n7BXtC8gk6r.jpg", [FILME] Hacker: Todo Crime Tem Um Início (2016)
+http://embed-api.clickhost.xyz/embed/filme/413052
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/rQmMlN20aLcCj7WUW4CbS1CZy1T.jpg", [FILME] Legião de Heróis (2016)
+http://embed-api.clickhost.xyz/embed/filme/413198
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/uLH92vwvTlOjnSCG5JqJtH1fT9p.jpg", [FILME] A Garota Na Caixa (2016)
+http://embed-api.clickhost.xyz/embed/filme/413337
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/ciq2V1G4dj3GLFBfQGY1gqvPcbK.jpg", [FILME] Roman J. Israel (2017)
+http://embed-api.clickhost.xyz/embed/filme/413362
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/AamawAExpgK6WYehjkmqCmgvODt.jpg", [FILME] O Resgate de Uma Vida (2016)
+http://embed-api.clickhost.xyz/embed/filme/413452
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/cyOPVUkRJ4tOY7LFUn49qH3ol8A.jpg", [FILME] 11/9:  Ataque ao Pentágono (2016)
+http://embed-api.clickhost.xyz/embed/filme/413691
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/4Pa8X8LxMMC4R5huYKsYQUUxRJr.jpg", [FILME] O Último Hotel (2016)
+http://embed-api.clickhost.xyz/embed/filme/413727
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/iGnm9iAfEqY3fpMSaJfEYrOTkap.jpg", [FILME] Sobre Viagens e Amores﻿ (2016)
+http://embed-api.clickhost.xyz/embed/filme/413730
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/9UOMSJXc3QV9D0QAS1ua08UqfcF.jpg", [FILME] O Digno (2016)
+http://embed-api.clickhost.xyz/embed/filme/413780
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/mcaVZEsQ3dxz8fzJYZSEazGBvvA.jpg", [FILME] Bem-vinda, Estranha (2018)
+http://embed-api.clickhost.xyz/embed/filme/413852
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/1nAhVGPiCTwUGdNV6vy8sUh6VMu.jpg", [FILME] As Garotas Da Tragédia (2017)
+http://embed-api.clickhost.xyz/embed/filme/413857
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/abHDJoNxU4N1Fzm43CP7EMu4tEb.jpg", [FILME] A Repartição do Tempo (2016)
+http://embed-api.clickhost.xyz/embed/filme/413870
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/gabn6tCOyUf6Yz8k6bathiuxLgh.jpg", [FILME] Cora Coralina: Todas as Vidas (2017)
+http://embed-api.clickhost.xyz/embed/filme/413872
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/LCtVQdNo2d9WLU1kfXi4gqgWXr.jpg", [FILME] Doce Virginia (2017)
+http://embed-api.clickhost.xyz/embed/filme/413992
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/8pIH2RRjYmKsQrHXpjETBcxomAQ.jpg", [FILME] Minha Prima Raquel (2017)
+http://embed-api.clickhost.xyz/embed/filme/413998
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/dcDSl251jGqrvqPTMNKRJBkV309.jpg", [FILME] Somente o Mar Sabe (2018)
+http://embed-api.clickhost.xyz/embed/filme/414001
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/aSA7maO0olKMY16hwTiG6PCKOXq.jpg", [FILME] Sob o Sol do Oeste (2018)
+http://embed-api.clickhost.xyz/embed/filme/414018
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/5gNpMJW3zzYGsd3RZ3lHd1CUR3b.jpg", [FILME] Perseguido pelo Destino (2017)
+http://embed-api.clickhost.xyz/embed/filme/414063
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/61mWDbk5ngPWM6PmLvjJm6kw9UE.jpg", [FILME] Videomannen (2018)
+http://embed-api.clickhost.xyz/embed/filme/414181
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/dztS7aqdW1BMbyr4beisngVf7kE.jpg", [FILME] Sedução Perigosa (2018)
+http://embed-api.clickhost.xyz/embed/filme/414187
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/z2pJigKnzgDL7RI5AlYf0eeoWTF.jpg", [FILME] iBoy (2017)
+http://embed-api.clickhost.xyz/embed/filme/414190
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/z3lChuI7J0viOgHzdjVuqWx4Lg8.jpg", [FILME] Ecos na Escuridão (2018)
+http://embed-api.clickhost.xyz/embed/filme/414191
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/p5c1N2ygxVDGULgMnDo0geOYzi7.jpg", [FILME] Kill Bill: The Whole Bloody Affair (2011)
+http://embed-api.clickhost.xyz/embed/filme/414419
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/2qEz0Jhc63DKoiJXY4SJh0ISQ5Q.jpg", [FILME] Lágrimas Sobre o Mississipi (2017)
+http://embed-api.clickhost.xyz/embed/filme/414425
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/52ElA7nExphFZBj4eFYSzx7gxxJ.jpg", [FILME] Um Mistério de Aurora Teagarden: A Casa dos Julius (2016)
+http://embed-api.clickhost.xyz/embed/filme/414768
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/v5pZrA9q4RM9KpLMen4WiM9MmKG.jpg", [FILME] Depois da Escuridão (2019)
+http://embed-api.clickhost.xyz/embed/filme/414777
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/wd7b4Nv9QBHDTIjc2m7sr0IUMoh.jpg", [FILME] Batman (2022)
+http://embed-api.clickhost.xyz/embed/filme/414906
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/5kyDvu49nivdPxYRwKS6b4LUrpD.jpg", [FILME] Famintos (2017)
+http://embed-api.clickhost.xyz/embed/filme/415010
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/sz9cPeSmiGLA1EDUPszlrWfSrId.jpg", [FILME] O Que é Saúde (2017)
+http://embed-api.clickhost.xyz/embed/filme/415086
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/3OTBuPAa4csKcV0jKwYc4ZWHkjL.jpg", [FILME] Obsessão Perigosa (2020)
+http://embed-api.clickhost.xyz/embed/filme/415311
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/piSpzW9vjUejGDnLDkuhu8F0ate.jpg", [FILME] A Cabana da Morte (2018)
+http://embed-api.clickhost.xyz/embed/filme/415633
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/nvT6niwCAMf27E7YptujhAeE1vW.jpg", [FILME] O Assassino: O Primeiro Alvo (2017)
+http://embed-api.clickhost.xyz/embed/filme/415842
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/s7QEbJLk34VQbjspXMpfpdrnWLn.jpg", [FILME] Schubert Apaixonado (2016)
+http://embed-api.clickhost.xyz/embed/filme/415914
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/matVoaEYhZwSllowIH8r8hGcqmP.jpg", [FILME] Baseado em Fatos Reais (2017)
+http://embed-api.clickhost.xyz/embed/filme/416051
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/dEon8Xtq6Kprw1FamyFEje2qkOk.jpg", [FILME] Atentado ao Hotel Taj Mahal (2019)
+http://embed-api.clickhost.xyz/embed/filme/416144
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/3UeqixegvCLvspfd3jdjbLbZg1b.jpg", [FILME] A Arma Perfeita (2016)
+http://embed-api.clickhost.xyz/embed/filme/416149
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/dFenWW7lmcKx6ugdGe71DomecTe.jpg", [FILME] O Instituto (2017)
+http://embed-api.clickhost.xyz/embed/filme/416166
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/iT8aJyGFBFk6sGYeOGF9stgzXNa.jpg", [FILME] Os Capacetes Brancos (2016)
+http://embed-api.clickhost.xyz/embed/filme/416211
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/oMS8uz4DrQoP2OU0MHr7KGFdpww.jpg", [FILME] A Maldição da Casa Winchester (2018)
+http://embed-api.clickhost.xyz/embed/filme/416234
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/4T2a0xVPHLazi4COChdASP4w8Jr.jpg", [FILME] Turbulência (2016)
+http://embed-api.clickhost.xyz/embed/filme/416248
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/vpVhBfev47TixYr1D79scO4VfMX.jpg", [FILME] Lista de Natal (2016)
+http://embed-api.clickhost.xyz/embed/filme/416251
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/1asrCZytMbbeTm6AIWlpMTKpsTz.jpg", [FILME] Doentes de Amor (2017)
+http://embed-api.clickhost.xyz/embed/filme/416477
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/rnz8UfYmNEYUMWcCMtsLUQyptn.jpg", [FILME] Gilda: Não Me Arrependo Desse Amor (2016)
+http://embed-api.clickhost.xyz/embed/filme/416680
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/74j6S3VZYKT7e74ViBDqU3YeWdg.jpg", [FILME] 3 Pedidos (2017)
+http://embed-api.clickhost.xyz/embed/filme/416772
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/gAlVZ84hlZ4GYPxxLijk0Fv6up.jpg", [FILME] Viking – Os Pergaminhos Sagrados (2016)
+http://embed-api.clickhost.xyz/embed/filme/416777
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/g8iOHq2Dps2xBge9WD6HH0CRTCB.jpg", [FILME] L'assistente sociale tutto pepe... (1981)
+http://embed-api.clickhost.xyz/embed/filme/416868
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/80DWrYatvqtmLxE2oZurIueaVad.jpg", [FILME] Swap: A Troca (2016)
+http://embed-api.clickhost.xyz/embed/filme/417028
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/uNOYr7OGdlzja4a4nCSZsaCtA1V.jpg", [FILME] Para Sempre Minha Garota (2018)
+http://embed-api.clickhost.xyz/embed/filme/417261
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/by4Cmcn9nYwhvAe0CLHSQF1XMto.jpg", [FILME] Descendentes 2 (2017)
+http://embed-api.clickhost.xyz/embed/filme/417320
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/3ERMp3C8BEm4OAvgxfCr68otBCo.jpg", [FILME] Histórias Assustadoras para Contar no Escuro (2019)
+http://embed-api.clickhost.xyz/embed/filme/417384
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/kCEpOTYiAwmNw7URVmRJRBURaiH.jpg", [FILME] Monos: Entre o Céu e o Inferno (2019)
+http://embed-api.clickhost.xyz/embed/filme/417466
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/a8EHTRe3LB7LDbgjNSwbEGVQ45j.jpg", [FILME] Kim Jong-un: Uma Biografia Não Autorizada (2015)
+http://embed-api.clickhost.xyz/embed/filme/417483
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/hnwCUlY2UU7gjfGfxKRVoI6xgxg.jpg", [FILME] Deixa Na Régua (2016)
+http://embed-api.clickhost.xyz/embed/filme/417502
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/oFKltxozxKLegd6NSX0fp0G2g0L.jpg", [FILME] Rápidos e Perigosos 2 (2016)
+http://embed-api.clickhost.xyz/embed/filme/417503
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/vaXAeK4yqVugvNVoFhnzZfRFOgY.jpg", [FILME] Era o Hotel Cambridge (2017)
+http://embed-api.clickhost.xyz/embed/filme/417544
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/ePFiF7L9airzDkPwI6txjxG9RV7.jpg", [FILME] Fala Comigo (2016)
+http://embed-api.clickhost.xyz/embed/filme/417546
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/rWqocW2kTdJf8WrGWQjH0L0RRrw.jpg", [FILME] Holocausto Brasileiro (2016)
+http://embed-api.clickhost.xyz/embed/filme/417548
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/cUQoV5uFIllGJyetFGrJE2xZ5ZE.jpg", [FILME] O Filho Eterno (2016)
+http://embed-api.clickhost.xyz/embed/filme/417565
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/3TJUd4ZCj45iAeCz9JX5VTmjwQM.jpg", [FILME] Para Ter Onde Ir (2016)
+http://embed-api.clickhost.xyz/embed/filme/417573
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/2CKKVhJq1Qu83HWeG4s3B8cRIIm.jpg", [FILME] Redemoinho (2017)
+http://embed-api.clickhost.xyz/embed/filme/417579
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/tffkH2F6DmAhud4g4rZqrQ1K48v.jpg", [FILME] CHiPs: O Filme (2017)
+http://embed-api.clickhost.xyz/embed/filme/417644
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/24NQ87f9LI5Md9vSkSCtpRPiFAq.jpg", [FILME] Tudo e Todas as Coisas (2017)
+http://embed-api.clickhost.xyz/embed/filme/417678
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/90h7Gmi1QShMBQJWtAoFA2y8Q58.jpg", [FILME] Pimp - Rainha do Gueto (2018)
+http://embed-api.clickhost.xyz/embed/filme/417688
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/z5w5hM3tg9VzXaOOdR7m5cWayEn.jpg", [FILME] Vida Selvagem (2018)
+http://embed-api.clickhost.xyz/embed/filme/417812
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/dsVyfkAdTDZWNMiaY39nYwrheZQ.jpg", [FILME] Diário de um Banana: Caindo na Estrada (2017)
+http://embed-api.clickhost.xyz/embed/filme/417830
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/bq8LwIbyTiTMFVbOyoJB5t9qzEz.jpg", [FILME] Viagem das Garotas (2017)
+http://embed-api.clickhost.xyz/embed/filme/417870
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/ysnZXx7YKZdlC9APTcwTCiZ4avC.jpg", [FILME] Ao Cair da Noite (2017)
+http://embed-api.clickhost.xyz/embed/filme/418078
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/6WCjbXI5MwZve6D0eGX41sV169z.jpg", [FILME] Meu Filho e Eu (2016)
+http://embed-api.clickhost.xyz/embed/filme/418272
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/1UJjJCZLHbeBidD9RxVZLDZXypn.jpg", [FILME] Paixão Obsessiva (2017)
+http://embed-api.clickhost.xyz/embed/filme/418437
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/gJHOYZrCYxekFi8OpPw0WdDAljx.jpg", [FILME] Três Cristos (2017)
+http://embed-api.clickhost.xyz/embed/filme/418533
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/lQOrFfaFTtSSmOtDCSM2EzHguOq.jpg", [FILME] A Volta do Juízo Final (2017)
+http://embed-api.clickhost.xyz/embed/filme/418588
+#EXTINF:-1 group-title="Documentários" tvg-logo="https://image.tmdb.org/t/p/w500/tuowzk8t7TX7GaU41YB62CT3DM1.jpg", [FILME] O Ataque à Maratona de Boston (2016)
+http://embed-api.clickhost.xyz/embed/filme/418693
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/jzZJ38gPc83eDKhOATj1GNt1xyv.jpg", [FILME] Esteros (2016)
+http://embed-api.clickhost.xyz/embed/filme/418718
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/1hXJRUdM785ogYuaOo0lXWjOCda.jpg", [FILME] A Batalha das Correntes (2018)
+http://embed-api.clickhost.xyz/embed/filme/418879
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/hV6l4wOhPDbEflqM1A2047D4F0E.jpg", [FILME] O Vendedor de Sonhos (2016)
+http://embed-api.clickhost.xyz/embed/filme/418896
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/gCfie6q8oMo4YpYvnVNLAqcL9uu.jpg", [FILME] Memory Box (2016)
+http://embed-api.clickhost.xyz/embed/filme/418921
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/pfSjQvdAZxKCSq7t2rzAGxYoPCb.jpg", [FILME] Alguém Como Eu (2017)
+http://embed-api.clickhost.xyz/embed/filme/418963
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/rppXv4b4DgCzvxQCpT0YZyt7miN.jpg", [FILME] José e Maria (2016)
+http://embed-api.clickhost.xyz/embed/filme/419303
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/A0RoSZh8PEYJgDMgM2EV7Ycz3dR.jpg", [FILME] Corra! (2017)
+http://embed-api.clickhost.xyz/embed/filme/419430
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/2J8VR4OecoqdCqjT3A9f01h6fZZ.jpg", [FILME] Conflitos Em Família (2017)
+http://embed-api.clickhost.xyz/embed/filme/419459
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/eLwg7GJRmOzhZdda9ubV6lBMMXD.jpg", [FILME] O Rei da Polca (2017)
+http://embed-api.clickhost.xyz/embed/filme/419472
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/1x8tN7XMxWgnJQnjZRxwMeiEWtF.jpg", [FILME] Sol da Meia-noite (2018)
+http://embed-api.clickhost.xyz/embed/filme/419478
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/wfs8vJ5TfEvKEK8OsUJzx3GriGg.jpg", [FILME] A Babá (2017)
+http://embed-api.clickhost.xyz/embed/filme/419479
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/54EriyA07gxT7shHpf6Sx4NgQwN.jpg", [FILME] Pai em Dose Dupla 2 (2017)
+http://embed-api.clickhost.xyz/embed/filme/419680
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/38SDqWOt4utiLOnWlas7BfrYQGS.jpg", [FILME] Sandy Wexler (2017)
+http://embed-api.clickhost.xyz/embed/filme/419700
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/wigZBAmNrIhxp2FNGOROUAeHvdh.jpg", [FILME] Ad Astra - Rumo às Estrelas (2019)
+http://embed-api.clickhost.xyz/embed/filme/419704
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/wsi6vxxKR7xg8ANjaqDBkiWp4No.jpg", [FILME] A Possessão de Mary (2019)
+http://embed-api.clickhost.xyz/embed/filme/419706
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/kM39QLCMDqcdxg4LsPvalv9s2dO.jpg", [FILME] A Melhor Escolha (2017)
+http://embed-api.clickhost.xyz/embed/filme/419709
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/jxTaF3jMaZ5Bui7Qva2vCaD3Dix.jpg", [FILME] Desobediência (2018)
+http://embed-api.clickhost.xyz/embed/filme/419743
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/eVD9tvtBSbPIp4xDAyGOMaCtqMY.jpg", [FILME] Os Especialistas De Emprego (2016)
+http://embed-api.clickhost.xyz/embed/filme/419772
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/1llJ6a7P4JShSqJtNGnmY8J6YC8.jpg", [FILME] Caçadora de Gigantes (2017)
+http://embed-api.clickhost.xyz/embed/filme/419831
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/mHTRHZCjQdynFcFBidLwdhorTLV.jpg", [FILME] A Casa Torta (2017)
+http://embed-api.clickhost.xyz/embed/filme/419835
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/gPwktuM87OZkK0XcA75dlb0mD33.jpg", [FILME] Minha Vida em Suas Mãos (2001)
+http://embed-api.clickhost.xyz/embed/filme/420068
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/l7uoKMgI2dtDTQ0Oezr8AmeFya8.jpg", [FILME] O Candinho (1976)
+http://embed-api.clickhost.xyz/embed/filme/420183
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/dgvWHPX1pVunMragxkdkZo4qLFL.jpg", [FILME] Não Bata Duas Vezes (2017)
+http://embed-api.clickhost.xyz/embed/filme/420245
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/fWlKFhqRq3jOv18dJBhZcB4uj75.jpg", [FILME] Danton - O Processo da Revolução (1983)
+http://embed-api.clickhost.xyz/embed/filme/4202
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/9dafGuDYZZhleXfGGnpbridpMJR.jpg", [FILME] Axé: Canto do Povo de um Lugar (2017)
+http://embed-api.clickhost.xyz/embed/filme/420276
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/z5mCK6Ex2UbpF25dpeoEw4SEts8.jpg", [FILME] A Glória e a Graça (2017)
+http://embed-api.clickhost.xyz/embed/filme/420322
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/uc2mPpLw4fMdiI6wuGigZunbcD8.jpg", [FILME] Canastra Suja (2016)
+http://embed-api.clickhost.xyz/embed/filme/420324
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/dNi05jbhXYgiM7toW6rOIYGzytN.jpg", [FILME] Olhar Instigado (2017)
+http://embed-api.clickhost.xyz/embed/filme/420328
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/8POGKMj4wbrBJPit6BofggbQMeh.jpg", [FILME] Bleach (2018)
+http://embed-api.clickhost.xyz/embed/filme/420426
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/9Mk4VMhOnRa6lTMNcJ7lpxbRsrr.jpg", [FILME] Professor Marston e as Mulheres-Maravilhas (2017)
+http://embed-api.clickhost.xyz/embed/filme/420622
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/z0m2BK6eCmaSJCDwS8JbkqDSg9P.jpg", [FILME] Aterrorizante (2018)
+http://embed-api.clickhost.xyz/embed/filme/420634
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/avx0jbk0DeXkvoD0KXyOSYR1bxE.jpg", [FILME] Malibu Horror Story (2023)
+http://embed-api.clickhost.xyz/embed/filme/420637
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/hHmD5ziiVvOM1femGTazj4bfkGK.jpg", [FILME] O Shaolin do Sertão (2016)
+http://embed-api.clickhost.xyz/embed/filme/420703
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/zdHXRQbVJvG20EWWwwLRH5MElnN.jpg", [FILME] Terror Profundo (2017)
+http://embed-api.clickhost.xyz/embed/filme/420707
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/AkWxiUsc32qJHLwt7vt5AvUFNlx.jpg", [FILME] Peter Pan & Wendy (2023)
+http://embed-api.clickhost.xyz/embed/filme/420808
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/llHTFUeUCWmkW5fR4J9kpa6Asep.jpg", [FILME] Malévola: Dona do Mal (2019)
+http://embed-api.clickhost.xyz/embed/filme/420809
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/zTlGXx2A1JwdaLvLQXmb0lYBdDt.jpg", [FILME] Christopher Robin: Um Reencontro Inesquecível (2018)
+http://embed-api.clickhost.xyz/embed/filme/420814
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/ptKugyJKWErkoWH4kURY0LR98Cv.jpg", [FILME] Raízes de Sangue (2018)
+http://embed-api.clickhost.xyz/embed/filme/420915
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/jxmnYUawdlSUctpN1JJ9wvE47ZH.jpg", [FILME] A Escalada (2017)
+http://embed-api.clickhost.xyz/embed/filme/421447
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/hVLwsGjTyq0PUwnjZTKmgFmsgol.jpg", [FILME] Flor da Juventude (2017)
+http://embed-api.clickhost.xyz/embed/filme/421471
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/h41DZREsYkm9Nq0HZ9YMP2pWlJg.jpg", [FILME] Crime e Desejo (2019)
+http://embed-api.clickhost.xyz/embed/filme/421473
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/hNfHGL6xiBIeDbuLYd30w0So8AW.jpg", [FILME] Natal Fora de Casa (2016)
+http://embed-api.clickhost.xyz/embed/filme/421620
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/rVZlGfQRDARwvi6NAfkehl5ked5.jpg", [FILME] Estarei em Casa para o Natal (2016)
+http://embed-api.clickhost.xyz/embed/filme/421632
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/32hjhlZf8rR9ahxOS26xeIGf95m.jpg", [FILME] Refém do Jogo (2018)
+http://embed-api.clickhost.xyz/embed/filme/421658
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/tS2bQ9HbRtavz7ctnnU9CA4J4y1.jpg", [FILME] Gusttavo Lima - 50/50 (2016)
+http://embed-api.clickhost.xyz/embed/filme/421753
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/eEsx2121j2xJwPSMovVArXfpG4N.jpg", [FILME] Cheat (1994)
+http://embed-api.clickhost.xyz/embed/filme/421763
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/fvMXZHRrdPdvP9Z9l6eT9lJ7bVS.jpg", [FILME] Por um Corredor Escuro (2018)
+http://embed-api.clickhost.xyz/embed/filme/421792
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/bjDUukHJOmuHZvWQkQBvHqfeodn.jpg", [FILME] Wesley Safadão - WS em casa (2016)
+http://embed-api.clickhost.xyz/embed/filme/421799
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/mgHl5QA4LWpxJ4IlAylLeS59HoT.jpg", [FILME] Massacre na Ucrânia (2017)
+http://embed-api.clickhost.xyz/embed/filme/421915
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/cX7o1YVEYxbXSLQbqIWyiloMmDg.jpg", [FILME] The Phantom of the Open Hearth (1976)
+http://embed-api.clickhost.xyz/embed/filme/421984
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/gcQxlrB9kcgPFa4XXywAB9b8B6u.jpg", [FILME] Paraíso (1970)
+http://embed-api.clickhost.xyz/embed/filme/421990
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/7VC8RKKKxYBmHGfFAoWj2G53Kyj.jpg", [FILME] A Ressurreição de Gavin Stone (2017)
+http://embed-api.clickhost.xyz/embed/filme/422114
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/oneCjL8KTvAUaABSvBB4JYErsCW.jpg", [FILME] I Am Bolt (2016)
+http://embed-api.clickhost.xyz/embed/filme/422469
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/rmfmjn7OXP9ZVNrNu02ghqgqUb3.jpg", [FILME] Porque Eu Te Amo (2017)
+http://embed-api.clickhost.xyz/embed/filme/422545
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/nuVodYDZ5g2eG3bakiBssjBtmtu.jpg", [FILME] Espectador Profissional (2018)
+http://embed-api.clickhost.xyz/embed/filme/422615
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/8d1vOiuCWsZK969SQp8rmzvIqnF.jpg", [FILME] Vida Após a Vida (2020)
+http://embed-api.clickhost.xyz/embed/filme/422709
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/nXBMrG3Ubon72vxeg6HC8D23h0m.jpg", [FILME] Jim Knopf e Lucas: O Maquinista (2018)
+http://embed-api.clickhost.xyz/embed/filme/422742
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/dvyLxnYzFNxEfrYOBOvWu8nd55W.jpg", [FILME] O Preço da Ganância (2017)
+http://embed-api.clickhost.xyz/embed/filme/422821
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/gc1c1uQz7uP8jTnXIXATB9fDBz9.jpg", [FILME] O Mistério de Hailey Dean: Assassinato com Amor (2016)
+http://embed-api.clickhost.xyz/embed/filme/422842
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/CgkjbiVUTCYe1QabchGYjJyID.jpg", [FILME] O Poder e o Impossível (2017)
+http://embed-api.clickhost.xyz/embed/filme/423087
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/fNu88PdpStJGe09AUYmqTn6NEXB.jpg", [FILME] Invocação do Mal 3: A Ordem do Demônio (2021)
+http://embed-api.clickhost.xyz/embed/filme/423108
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/k34LUdkVAU77hDKUhcTgg0HUnHh.jpg", [FILME] Invasão ao Serviço Secreto (2019)
+http://embed-api.clickhost.xyz/embed/filme/423204
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/wkTcgLo2LYARlaSdRqLbE5h8t3m.jpg", [FILME] O Jardim das Aflições (2017)
+http://embed-api.clickhost.xyz/embed/filme/423303
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/je0qIjmoEYmizlWtDEDTWcdHyRq.jpg", [FILME] O Peso da Dor (2021)
+http://embed-api.clickhost.xyz/embed/filme/423333
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/s1U0PYYW19bCPjCmmXjX9KJwa2O.jpg", [FILME] Nunca Deixe de Lembrar (2018)
+http://embed-api.clickhost.xyz/embed/filme/423612
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/qLCj8x7dEmc3oekuVEqmw1ApdEC.jpg", [FILME] Em Pedaços (2017)
+http://embed-api.clickhost.xyz/embed/filme/423646
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/cCMNQdHiFvjGfEgtpFARyZuoNwh.jpg", [FILME] O Amanhecer Mais Escuro (2016)
+http://embed-api.clickhost.xyz/embed/filme/423733
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/AgNh3bsQLTwkWzmKgnbsfrlDCv6.jpg", [FILME] O Confidente da Rainha (2017)
+http://embed-api.clickhost.xyz/embed/filme/423899
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/sPi4SFZceSRD3Il9QiIDG6niTcT.jpg", [FILME] Loja de Unicórnios (2017)
+http://embed-api.clickhost.xyz/embed/filme/423949
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/2A3FETGysWKyYREI3YGzfpNKr8K.jpg", [FILME] Autodestruição (2017)
+http://embed-api.clickhost.xyz/embed/filme/423988
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/p7KGpuO13YUsRxFSPcANFs1MAx1.jpg", [FILME] Apóstolo (2018)
+http://embed-api.clickhost.xyz/embed/filme/424121
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/xbniRigN0Ao3KjH8ha7yySK1g2B.jpg", [FILME] Halloween (2018)
+http://embed-api.clickhost.xyz/embed/filme/424139
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/2pTotuRkAVAl8q6qdccntmDJRoX.jpg", [FILME] Revolver (1991)
+http://embed-api.clickhost.xyz/embed/filme/424413
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/yq66hYkXFaj2DDqCkF6T2wT7VxQ.jpg", [FILME] Megan Leavey (2017)
+http://embed-api.clickhost.xyz/embed/filme/424488
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/zQcrZOk8fdgYFAr8pExXZz6hoYN.jpg", [FILME] A Garota do Armário (2016)
+http://embed-api.clickhost.xyz/embed/filme/424505
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/glIo7gzpXTr88x72z4OEUkxjZxM.jpg", [FILME] A Vida Imortal de Henrietta Lacks (2017)
+http://embed-api.clickhost.xyz/embed/filme/424600
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/7gprs7louiwHnO0LN6xP9fQ1nEF.jpg", [FILME] Bohemian Rhapsody (2018)
+http://embed-api.clickhost.xyz/embed/filme/424694
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/an1oaHvLqmz6YioxAx66vchy8BW.jpg", [FILME] Desculpe Te Incomodar (2018)
+http://embed-api.clickhost.xyz/embed/filme/424781
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/x9vAcoPsyFQ6m3Re5S9DQSbudyi.jpg", [FILME] Bumblebee (2018)
+http://embed-api.clickhost.xyz/embed/filme/424783
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/pyxN3LztDtPus5JSOv1HiRHkSco.jpg", [FILME] Em Defesa de Cristo (2017)
+http://embed-api.clickhost.xyz/embed/filme/424998
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/ewvz24Ck6OwWoEGOzUkTksDA9TB.jpg", [FILME] Em Guerra com o Vovô (2020)
+http://embed-api.clickhost.xyz/embed/filme/425001
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/yXVvLAG6APpxJhBC2DzQ3mNG7Vx.jpg", [FILME] A Garota Perfeita (2017)
+http://embed-api.clickhost.xyz/embed/filme/425124
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/fMMnWxxJz6xgmgASLg1NfvAQsAw.jpg", [FILME] Como se Tornar um Conquistador (2017)
+http://embed-api.clickhost.xyz/embed/filme/425134
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/x7xXm9EDs5YTnGjczAATJ5jsown.jpg", [FILME] Show Dogs: O Agente Canino (2018)
+http://embed-api.clickhost.xyz/embed/filme/425148
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/jHLU9j3EplqT5FeDL6JCrlZaQIW.jpg", [FILME] A Pequena Bruxa (2018)
+http://embed-api.clickhost.xyz/embed/filme/425194
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/xUddC5HTjMWmClD007QBWR0BLHY.jpg", [FILME] Truque de Mestre: O 3° Ato (2025)
+http://embed-api.clickhost.xyz/embed/filme/425274
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/fYYmrNoy0BkgcYUoEHgg75BwtHU.jpg", [FILME] Guerreiro da Escuridão (2017)
+http://embed-api.clickhost.xyz/embed/filme/425298
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/bV1Blgc4Oq9PU9GlPzYiBuNotmm.jpg", [FILME] Escobar: A Traição (2017)
+http://embed-api.clickhost.xyz/embed/filme/425336
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/5mSK0k1bIghviA0ei024sMuSEcL.jpg", [FILME] Uma Razão para Vencer (2018)
+http://embed-api.clickhost.xyz/embed/filme/425373
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/yyM6NktVICFnRj7tyvYBMUUq6g3.jpg", [FILME] Kin (2018)
+http://embed-api.clickhost.xyz/embed/filme/425505
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/a7RLIppO4PJhUQn2897GyHecdWj.jpg", [FILME] Já Não Me Sinto em Casa Nesse Mundo (2017)
+http://embed-api.clickhost.xyz/embed/filme/425591
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/vIMTuViWlUGvmvAZSEOjz3n11NS.jpg", [FILME] Plano Quase Perfeito (2017)
+http://embed-api.clickhost.xyz/embed/filme/425716
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/aFrws9jzXYG7Ezp6vh9dPjXO9AB.jpg", [FILME] O Heroi (2017)
+http://embed-api.clickhost.xyz/embed/filme/425751
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/s7RabsVAYPaBDo7Ehdz0xd5Phzj.jpg", [FILME] Ghostbusters: Mais Além (2021)
+http://embed-api.clickhost.xyz/embed/filme/425909
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/cdPSUck4tBRvRu6DFk6XciDrssn.jpg", [FILME] Cargo (2017)
+http://embed-api.clickhost.xyz/embed/filme/425972
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/45OzWnoHbQA4JXiLQBwJeaotfeG.jpg", [FILME] O Estado das Coisas (2017)
+http://embed-api.clickhost.xyz/embed/filme/425980
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/gpfRGpgUsHlYX0QgJE1kUShorIH.jpg", [FILME] Acertando o Passo (2017)
+http://embed-api.clickhost.xyz/embed/filme/426030
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/qUhyFBv3b36cy4kQlVsUoWEIV8H.jpg", [FILME] Almas Secas (2017)
+http://embed-api.clickhost.xyz/embed/filme/426054
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/fbkUfzmVzEBFSt6p7VigknREIJT.jpg", [FILME] Nosferatu (2024)
+http://embed-api.clickhost.xyz/embed/filme/426063
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/dsdi6vAIT2WdWeAl6fj6EWi4n8Q.jpg", [FILME] Natal Bom é em Família (2016)
+http://embed-api.clickhost.xyz/embed/filme/426140
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/8cvpQD0jI79aehGa6C7pbOuRkFa.jpg", [FILME] O Amor de Catarina (2016)
+http://embed-api.clickhost.xyz/embed/filme/426167
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/ptJHq5QiqyBZCRFLAfunv1arp3V.jpg", [FILME] Drama (2016)
+http://embed-api.clickhost.xyz/embed/filme/426202
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/fQeaB97z2g0vdu0tvu0T9me1aJF.jpg", [FILME] Amor Eterno (2016)
+http://embed-api.clickhost.xyz/embed/filme/426203
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/7ubGHAPBVOXLZoMomMYAC3jB9Di.jpg", [FILME] Senhores do Caos (2018)
+http://embed-api.clickhost.xyz/embed/filme/426249
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/rvTZFjcNvzPFYJnmdrvSrGvqx67.jpg", [FILME] Marjorie Prime (2017)
+http://embed-api.clickhost.xyz/embed/filme/426254
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/we6svN4aKXobse1cQBNdf0vpGQa.jpg", [FILME] Uma Viagem para Espanha (2017)
+http://embed-api.clickhost.xyz/embed/filme/426264
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/9uFLziWGomGT6j1y40xhUC3kRZm.jpg", [FILME] Código de Silêncio (2017)
+http://embed-api.clickhost.xyz/embed/filme/426265
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/kHCLd46CjHugOuKKAiRPMb2mLUm.jpg", [FILME] Leve-Me (2017)
+http://embed-api.clickhost.xyz/embed/filme/426272
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/pK67kIG4QpejAGDbh31Zhq7cfd1.jpg", [FILME] Goke: O Vampiro do Espaço (1968)
+http://embed-api.clickhost.xyz/embed/filme/42628
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/sSMz9j9oeydYLviGNYoro7Zk8Uc.jpg", [FILME] O Chamado do Mal (2018)
+http://embed-api.clickhost.xyz/embed/filme/426375
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/qQziRQeYUIc9I3lVEcdwQJGy5dS.jpg", [FILME] O Quebra-Nozes e os Quatro Reinos (2018)
+http://embed-api.clickhost.xyz/embed/filme/426543
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/tzKGYYjbhFuszPlmVXYP27cmCWx.jpg", [FILME] Holmes e Watson (2018)
+http://embed-api.clickhost.xyz/embed/filme/426563
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/zecOplwpW7TlP3ZKSAKov1ws4b0.jpg", [FILME] O Mau Exemplo de Cameron Post (2018)
+http://embed-api.clickhost.xyz/embed/filme/426613
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/7ZGqze3H7kNIIKZxWYf60Eng5jX.jpg", [FILME] Amor em Tempos de Ódio (2018)
+http://embed-api.clickhost.xyz/embed/filme/426618
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/eUi9srjugUumdUK8sGO9ndMFXgI.jpg", [FILME] Parallel (2018)
+http://embed-api.clickhost.xyz/embed/filme/426793
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/h6OReqEC3AQEG4LaWtLH6PIQ2aB.jpg", [FILME] Os Domésticos (2018)
+http://embed-api.clickhost.xyz/embed/filme/426814
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/vQXidvkYTF3emnh9TtxGQ0HhwjX.jpg", [FILME] Ufo - Estamos Sozinhos? (2018)
+http://embed-api.clickhost.xyz/embed/filme/426865
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/eNJmBhy79E4ZpppRb0O80MllVwT.jpg", [FILME] De Repente Noiva (2016)
+http://embed-api.clickhost.xyz/embed/filme/427045
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/2mlGH6mwkM5XIbI8rXogrSUz2um.jpg", [FILME] O Amor e suas Surpresas (2017)
+http://embed-api.clickhost.xyz/embed/filme/427152
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/tSQVruJWZd6595QfxvSe6Zd46dg.jpg", [FILME] O Príncipe Feliz (2018)
+http://embed-api.clickhost.xyz/embed/filme/427214
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/hMoYFNwzBRa3eSut4LiozDM2l3T.jpg", [FILME] Para Sempre Natal (2016)
+http://embed-api.clickhost.xyz/embed/filme/427279
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/p6XBvViXzWH1JRc5NW5WHNtyNmG.jpg", [FILME] O Rei Guerreiro (2017)
+http://embed-api.clickhost.xyz/embed/filme/427395
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/4fSD3wa1FNDIwBwAXjlUImjk7dq.jpg", [FILME] A Palavra de Pablo (2017)
+http://embed-api.clickhost.xyz/embed/filme/427427
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/amkdnEjoAVzvWW2xKKdw256n606.jpg", [FILME] Nos Caminhos de Deus (2019)
+http://embed-api.clickhost.xyz/embed/filme/427612
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/7bhqCvl771uepyt6wbzEiryxEoc.jpg", [FILME] Rampage: Destruição Total (2018)
+http://embed-api.clickhost.xyz/embed/filme/427641
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/cYtSGwqq5fbfYckCqYplchg3MCo.jpg", [FILME] De Volta Para Casa (2017)
+http://embed-api.clickhost.xyz/embed/filme/427900
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/2hcfqAFyryc1pBSmvvGkFdW1ONZ.jpg", [FILME] Comando Imbatível (1990)
+http://embed-api.clickhost.xyz/embed/filme/427910
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/f4TV8H3kQQdzXtAXPRDCzLILKIy.jpg", [FILME] A Máscara de Ferro (2019)
+http://embed-api.clickhost.xyz/embed/filme/428045
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/sBdtAsZNVPMOOYcq8zh0XULqU9T.jpg", [FILME] Máquinas Mortais (2018)
+http://embed-api.clickhost.xyz/embed/filme/428078
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/eF7UhLR1buTUTOfbIKsVT6kX4xc.jpg", [FILME] A Reviravolta (2017)
+http://embed-api.clickhost.xyz/embed/filme/428323
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/xp1TsrJ2mvnv10ooUL0IsFeJXp9.jpg", [FILME] A Pele Fria (2017)
+http://embed-api.clickhost.xyz/embed/filme/428399
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/qQfybAMGw5Cu6tkPY994yAzAovl.jpg", [FILME] Em Retirada (2017)
+http://embed-api.clickhost.xyz/embed/filme/428446
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/dSrD6Tkn4UgW7slML7wDYZlu9kA.jpg", [FILME] Sombras da Vida (2017)
+http://embed-api.clickhost.xyz/embed/filme/428449
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/6A58vyvlMwheXpg9maqc639pJNf.jpg", [FILME] Reino de Deus (2017)
+http://embed-api.clickhost.xyz/embed/filme/428493
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/vDUCug8zOh8IKEZSk5xDZUdf8wR.jpg", [FILME] Os Penetras 2: Quem Dá Mais? (2017)
+http://embed-api.clickhost.xyz/embed/filme/428519
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/cLmGnoDaglH1p4MP6iDFI8Mydo9.jpg", [FILME] Cadeado do Amor (2017)
+http://embed-api.clickhost.xyz/embed/filme/428586
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/qAB1pfwi92gkblvL4gwoSRuNoSp.jpg", [FILME] Eu Fico Loko (2017)
+http://embed-api.clickhost.xyz/embed/filme/428645
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/vvpY793KCds4giNqdcGCXTEAvsC.jpg", [FILME] Muleque Té Doido 2: A Lenda de Dom Sebastião (2016)
+http://embed-api.clickhost.xyz/embed/filme/428703
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/b1Wkthkn7AiJFS4OgSUrJqHhjez.jpg", [FILME] Ofélia (2019)
+http://embed-api.clickhost.xyz/embed/filme/428836
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/hFhVtHcLkqhjD7jZ0OJAVpwP8DF.jpg", [FILME] Mal Nosso (2017)
+http://embed-api.clickhost.xyz/embed/filme/428882
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/oLgk3ElAsDygrx53XQfXEZiefKS.jpg", [FILME] Acampamento de Gordinhos (2017)
+http://embed-api.clickhost.xyz/embed/filme/428888
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/3dJsNJfL3CKiRRf39rE0KyI2Wux.jpg", [FILME] A Permissão (2017)
+http://embed-api.clickhost.xyz/embed/filme/428988
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/iQ89TzgY0eDoXL3xtIpIKT75jKu.jpg", [FILME] Triunfantes em Deus (2016)
+http://embed-api.clickhost.xyz/embed/filme/429100
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/8enoeQzPZw2VDrAPRp9u5kzO1U7.jpg", [FILME] Sem Amor (2017)
+http://embed-api.clickhost.xyz/embed/filme/429174
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/xkfebRm9rO6rQmIelznLIybPTHi.jpg", [FILME] Roda Gigante (2017)
+http://embed-api.clickhost.xyz/embed/filme/429189
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/47ITipyIx7QPjB1oyNsR6H52Ic0.jpg", [FILME] Fora de Combate (2018)
+http://embed-api.clickhost.xyz/embed/filme/429194
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/SrIZVxn0wbGyuOItWAGYzsRE5X.jpg", [FILME] Vice (2018)
+http://embed-api.clickhost.xyz/embed/filme/429197
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/lbuGKMPrnFa0xxukS8gk9jfyqpY.jpg", [FILME] Bom Comportamento (2017)
+http://embed-api.clickhost.xyz/embed/filme/429200
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/n0RZH9RklAokKOXHOivtxUo98YM.jpg", [FILME] Vox Lux: O Preço da Fama (2018)
+http://embed-api.clickhost.xyz/embed/filme/429202
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/6aFKH8dEKfM5uTeXw6D3TFZZyFe.jpg", [FILME] O Velho e a Arma (2018)
+http://embed-api.clickhost.xyz/embed/filme/429203
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/fqIF4ERm1tmBRHZQs32DdIAM9OS.jpg", [FILME] Bingo: O Rei das Manhãs (2017)
+http://embed-api.clickhost.xyz/embed/filme/429210
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/2ZSqfNWtcaLM5q4BT6gbrLIdpsl.jpg", [FILME] Missão: Moedas (2017)
+http://embed-api.clickhost.xyz/embed/filme/429238
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/90MfrsEOXjnZk8mFiLnsTHNIhnj.jpg", [FILME] Votos de Amor (2016)
+http://embed-api.clickhost.xyz/embed/filme/429284
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/cejjvrBhIgnUx1RJQaKG0T3c1sG.jpg", [FILME] Vidas à Deriva (2018)
+http://embed-api.clickhost.xyz/embed/filme/429300
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/mBgAJeIx1d5kxU8nR748o9qnAUK.jpg", [FILME] 12 Heróis (2018)
+http://embed-api.clickhost.xyz/embed/filme/429351
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/9nPnDDPrSgMw7TUrYShiZ3Ud07.jpg", [FILME] Extinção (2018)
+http://embed-api.clickhost.xyz/embed/filme/429415
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/8DzBggJ7xQKQjadsBgjEosLZ2Dw.jpg", [FILME] Ninguém Brinca com Jesus Quintana (2019)
+http://embed-api.clickhost.xyz/embed/filme/429416
 #EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/5BKRuGVxx8qsB7WGSJ0oWRCHsgN.jpg", [FILME] Homem-Formiga e a Vespa (2018)
 http://embed-api.clickhost.xyz/embed/filme/363088
 #EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/eDEu2l4xvmhVuLerpHzzz2i1lgm.jpg", [FILME] Nise: O Coração da Loucura (2016)
